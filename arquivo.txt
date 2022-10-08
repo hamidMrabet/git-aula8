@@ -1,6 +1,4 @@
-**mensagem important** </b>
+mensagem important
 
-### cuidado### </b>
-
-_Antes de deleter ou altera uma coisa no arquivo, tem que fazer atualizaçao no remote local._
+cuidado !!! Antes de deleter ou altera uma coisa no arquivo, tem que fazer atualizaçao no remote local._
 
